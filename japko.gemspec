@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Japko::VERSION
   spec.authors       = ["Paweł Pacana"]
   spec.email         = ["pawel.pacana@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Simplistic parser for .strings files.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
